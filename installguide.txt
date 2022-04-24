@@ -1,0 +1,3 @@
+Paste the 'data' folder directly into your CDDA installation.
+
+alternately, dig down to the folder named 'Hostile_Architecture' and paste that directly into your cdda/data/mods folder.

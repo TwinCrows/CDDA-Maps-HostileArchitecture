@@ -1,0 +1,14 @@
+[
+  {
+    "type": "start_location",
+    "ident": "tc_Prison1",
+    "name": "Medium-Security Prison",
+    "terrain": [ "tc_Prison1secondfloor_4" ]
+  },
+  {
+    "type": "start_location",
+    "ident": "tc_Hospital1",
+    "name": "Memorial Hospital",
+    "terrain": [ "tc_Hospital_4" ]
+  }
+]

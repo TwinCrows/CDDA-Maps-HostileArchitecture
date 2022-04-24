@@ -1,0 +1,11 @@
+[
+    {
+        "type": "region_overlay",
+        "regions": [ "all" ],
+        "city": {
+            "shops": {
+                "tc_Hospital": 1000
+            }
+        }
+    }
+]

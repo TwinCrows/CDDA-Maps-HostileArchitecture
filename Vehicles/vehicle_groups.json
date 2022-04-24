@@ -1,0 +1,7 @@
+[
+  {
+    "id": "tc_hospital_stretchers",
+    "type": "vehicle_group",
+    "vehicles": [ [ "tc_hospital_stretcher", 100 ] ]
+  }
+]

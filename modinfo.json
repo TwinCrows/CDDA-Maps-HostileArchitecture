@@ -1,0 +1,13 @@
+[
+    {
+        "type": "MOD_INFO",
+        "ident": "HostileArchitecture",
+        "name": "Hostile Architecture",
+        "authors": [ "TwinCrows" ],
+        "maintainers": [ "TwinCrows" ],
+        "description": "Adds locations built using my Hostile Architect location builder.",
+        "category": "buildings",
+        "dependencies": [ "dda" ],
+        "obsolete": false
+    }
+]

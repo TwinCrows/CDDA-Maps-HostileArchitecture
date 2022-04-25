@@ -2,7 +2,7 @@
     "type": "terrain",
     "id": "tc_hospitalfloor",
     "name": "hospital floor",
-    "description": "A bright and shiny, yet mysteriously sticky white linoleum floor.",
+    "description": "A shiny yet sticky white linoleum floor.",
     "symbol": ".",
     "color": "white",
     "looks_like": "t_linoleum_white",

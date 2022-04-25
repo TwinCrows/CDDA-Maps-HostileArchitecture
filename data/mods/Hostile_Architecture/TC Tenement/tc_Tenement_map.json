@@ -60,15 +60,15 @@
                 "  fffff||ww||ww||||=||||w|||=||||ww||ww||fffff  ",
                 "                  ssssssssssss                  "
             ],
-        "palettes": [ "apartment_con_old" ],
+        "palettes": [ "tc_tenementpalette" ],
         "terrain": { 
 		" ": "t_region_groundcover", 
 		"i": "t_linoleum_white", 
-		"g": "t_chaingate_c", 
+		"g": ["t_privacy_fencegate_c", "t_privacy_fencegate_o"], 
 		"b": "t_linoleum_white", 
 		"T": "t_linoleum_white", 
-		"f": "t_chainfence", 
-		"W": "t_laminated_glass",
+		"f": "t_privacy_fence", 
+		"W": "t_window",
 		"D": [ ["t_door_locked_interior", 2], "t_door_c", "t_door_o" ],
 		"+": [ "t_door_c", "t_door_o" ],
 		"w": [ "t_window_domestic", "t_curtains" ],
@@ -156,11 +156,11 @@
                 "       ||w|||ww|||W|||w||w|||W|||ww|||w||       ",
                 "                                                "
             ],
-        "palettes": [ "apartment_con_old" ],
+        "palettes": [ "tc_tenementpalette" ],
         "terrain": { 
 		" ": "t_open_air",
 		"z": "t_flat_roof",
-		"W": "t_laminated_glass",
+		"W": "t_window",
 		"i": "t_linoleum_white",
 		"b": "t_linoleum_white", 
 		"T": "t_linoleum_white", 
@@ -242,11 +242,11 @@
                 "       ||w|||ww|||W|||w||w|||W|||ww|||w||       ",
                 "                                                "
             ],
-        "palettes": [ "apartment_con_old" ],
+        "palettes": [ "tc_tenementpalette" ],
         "terrain": { 
 		" ": "t_open_air",
 		"z": "t_flat_roof",
-		"W": "t_laminated_glass",
+		"W": "t_window",
 		"i": "t_linoleum_white",
 		"b": "t_linoleum_white", 
 		"T": "t_linoleum_white", 

@@ -40,14 +40,17 @@
   {
     "type": "scenario",
     "ident": "tc_tenement",
-    "name": "Hostile Architecture: Tenement",
-    "points": 0,
-    "description": "You are a resident or visitor of a tenement apartment.",
+    "name": "Hostile Architecture: Tenement Apartments",
+    "points": 1,
+    "description": "Surrounded by the wailing of the dead, you are caught in a crowded apartment.",
     "allowed_locs": [ "tc_Tenement1" ],
-    "start_name": "Tenement Dweller",
+    "start_name": "Tenement Resident",
     "professions": [
       "unemployed",
-      "tweaker"
+      "tweaker",
+      "cop",
+      "security",
+      "gangster"
     ],
     "flags": [ "CITY_START", "LONE_START" ]
   }

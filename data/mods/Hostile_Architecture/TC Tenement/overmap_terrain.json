@@ -1,0 +1,145 @@
+[
+    {
+        "id": "tc_tenement1_floor1_1",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK", "RISK_HIGH" ]
+    },
+    {
+        "id": "tc_tenement1_floor2_1",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_floor3_1",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_roof_1",
+        "type": "overmap_terrain",
+        "name": "tenement roof",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 2
+    },
+    {
+        "id": "tc_tenement1_floor1_2",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2,
+	"flags": [ "SIDEWALK", "RISK_HIGH" ]
+    },
+    {
+        "id": "tc_tenement1_floor2_2",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_floor3_2",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_roof_2",
+        "type": "overmap_terrain",
+        "name": "tenement roof",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 2
+    },
+    {
+        "id": "tc_tenement1_floor1_3",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_floor2_3",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_floor3_3",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_roof_3",
+        "type": "overmap_terrain",
+        "name": "tenement roof",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 2
+    },
+    {
+        "id": "tc_tenement1_floor1_4",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_floor2_4",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_floor3_4",
+        "type": "overmap_terrain",
+        "name": "tenement",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "tc_tenement1_roof_4",
+        "type": "overmap_terrain",
+        "name": "tenement roof",
+        "sym": "t",
+        "color": "light_gray",
+        "see_cost": 2
+    }
+        
+]

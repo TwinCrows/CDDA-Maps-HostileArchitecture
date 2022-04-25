@@ -1,0 +1,12 @@
+[
+    {
+        "type": "region_overlay",
+        "regions": [ "all" ],
+        "city": {
+            "houses": {
+                "tc_tenement1": 50
+            }
+        }
+    }
+]
+        

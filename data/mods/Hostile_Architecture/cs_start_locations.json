@@ -10,5 +10,11 @@
     "ident": "tc_Hospital1",
     "name": "Memorial Hospital",
     "terrain": [ "tc_Hospital_4" ]
+  },
+  {
+    "type": "start_location",
+    "ident": "tc_Tenement1",
+    "name": "Tenement",
+    "terrain": [ "tc_tenement1_floor1_3" ]
   }
 ]

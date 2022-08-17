@@ -116,7 +116,7 @@
 	{ "monster": "mon_turret_riot", "x": 28, "y": 39 },
 	{ "monster": "mon_eyebot", "x": [ 2, 23 ], "y": [66, 69] },
 	{ "monster": "mon_eyebot", "x": [ 24, 47 ], "y": [66, 69] },
-	{ "monster": "mon_eyebot", "x": [ 64, 69 ], "y": [64, 47] }
+	{ "monster": "mon_eyebot", "x": [ 64, 69 ], "y": [49, 69] }
 
 
       ],
@@ -132,7 +132,7 @@
 	"place_vehicles": [
         { "vehicle": "policesuv", "x": [ 17, 17 ], "y": [ 8, 8 ], "chance": 100, "rotation": 270 },
         { "vehicle": "car", "x": [ 27, 27 ], "y": [ 7, 7 ], "chance": 100, "rotation": 90 },
-	{ "vehicle": "bus_prison", "x": [ 16, 16 ], "y": [ 22, 22 ], "chance": 100, "rotation": 180 }
+	{ "vehicle": "bus_prison", "x": [ 15, 15 ], "y": [ 21, 21 ], "chance": 100, "rotation": 180 }
       ]
       }
     }

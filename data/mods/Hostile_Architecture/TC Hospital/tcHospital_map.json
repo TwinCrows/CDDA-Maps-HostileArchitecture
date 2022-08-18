@@ -172,8 +172,8 @@
 
 			],
 			"place_vehicles": [
-        	{ "vehicle": "ambulance", "x": [ 29, 31 ], "y": [ 63, 66 ], "chance": 60, "rotation": [0, 45, 270] },
-        	{ "vehicle": "ambulance", "x": [ 39, 41 ], "y": [ 63, 66 ], "chance": 60, "rotation": [0, 45, 270] },
+        	{ "vehicle": "ambulance", "x": [ 29, 31 ], "y": [ 63, 66 ], "chance": 60, "rotation": [0] },
+        	{ "vehicle": "ambulance", "x": [ 39, 41 ], "y": [ 63, 66 ], "chance": 60, "rotation": [0] },
 		{ "vehicle": "car", "x": [ 28, 44 ], "y": [ 18, 20 ], "chance": 100, "rotation": [0, 45, 90, 135, 180, 225, 270] },
 				{
 					"vehicle": "tc_hospital_stretcher",

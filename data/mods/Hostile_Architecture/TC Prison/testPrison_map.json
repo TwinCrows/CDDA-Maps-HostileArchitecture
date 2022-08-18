@@ -130,9 +130,9 @@
         ]
       },
 	"place_vehicles": [
-        { "vehicle": "policesuv", "x": [ 17, 17 ], "y": [ 8, 8 ], "chance": 100, "rotation": 270 },
+        { "vehicle": "policesuv", "x": [ 16, 16 ], "y": [ 6, 6 ], "chance": 100, "rotation": 270 },
         { "vehicle": "car", "x": [ 27, 27 ], "y": [ 7, 7 ], "chance": 100, "rotation": 90 },
-	{ "vehicle": "bus_prison", "x": [ 15, 15 ], "y": [ 21, 21 ], "chance": 100, "rotation": 180 }
+	{ "vehicle": "bus_prison", "x": [ 12, 12 ], "y": [ 19, 19 ], "chance": 100, "rotation": 180 }
       ]
       }
     }
